@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sahil Bambulkar (@SahilBamb)
-- 👀 I’m currently interested in creating interesting projects and reading interesting books
+- 👀 I’m currently interested in creating projects to automate or aid manual tasks
 - 🌱 I’m currently learning Swift IOS developmenet
 
 <!---
