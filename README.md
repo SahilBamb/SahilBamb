@@ -1,4 +1,3 @@
-- 👋  Hi, I’m Sahil Bambulkar (@SahilBamb)
 
 <!---
 SahilBamb/SahilBamb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
