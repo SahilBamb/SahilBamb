@@ -7,6 +7,46 @@
 - 🥅 2023 Goals: Master Data Structures and Algorithms
 - ⚡ Fun fact: I love to write and lift weights (not at the same time)
 
+## Project Highlights
+
+### Tech Prep Jobs List Website - LIVE
+[]([url](https://web.njit.edu/~sb59/))
+
+<img width="500" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/8b98dc86-9a67-4b29-a5fd-04e3cb45befd">
+
+### Xeopets.com (React/Node.js Virtual Pet Simulator Game) - LIVE
+[]([url](Xeopets.com))
+
+<img width="500" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/2d3fc8c9-7282-4eaf-8665-627a44f9be5e">
+
+### Python / Google Cloud API RA Package Tracker Application  
+
+[]([url](https://github.com/SahilBamb/RAPackageTracker))
+
+<img width="500" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/ade67c55-cc00-4411-9567-a50729b6cd8e">
+
+### Python TensorFlow / Keras Machine Learning Self Driving Car Simulation 
+
+[]([url](https://github.com/SahilBamb/SelfDrivingSimulation))
+
+<img width="500" alt="image" src="https://res.cloudinary.com/marcomontalbano/image/upload/v1659036267/video_to_markdown/images/youtube---uvfwzin-FI-c05b58ac6eb4c4700831b2b3070cd403.jpg">
+
+
+
+### More Projects:
+
+* [Shopi-Free Full Stack E-commerce Application (Shopify Clone)](https://github.com/SahilBamb/Full-Stack-Ecommerce-App)
+* [Python Automated Youtube Downloader + Video Editor](https://github.com/SahilBamb/AutomatedVideoEditor)
+* [Python Flask / Beautiful Soup Dynamic Tax Calculator Application](https://github.com/SahilBamb/DynamicTaxRateApplication)
+* [Python Flask / Beautiful Pokemon Door Deck](https://github.com/SahilBamb/PokeDoorDecs)
+* [Python Low Level (No Game Engine) Focused Squared Productivity Game](https://github.com/SahilBamb/FocusedSquared)
+* [TCP Chatroom](https://github.com/SahilBamb/TCPChatroom)
+* [Machine Learning Multi-Digit Recognizer Convolutional Neural Network](https://github.com/SahilBamb/Multi-Digit-Recognizer-Convolutional-Neural-Network)
+* [Microsoft Word to Flash Cards (Turn a word document into flashcards)](https://github.com/SahilBamb/WordtoFlashCards)
+* [Discord Auto Chatter](https://github.com/SahilBamb/DiscordAutoChatter)
+* [Charity Donation Notifier](https://github.com/SahilBamb/CharityDonationNotifier)
+* [Crypto SMS](https://github.com/SahilBamb/CryptoSMS)
+
 ## Data Structures and Algorithm Problems Solved
 
 #### LeetCode Problems
