@@ -15,8 +15,6 @@
 * Runs on LAMP stack (Linux, Apache, MySQL and PHP) & migrating to MERN stack (MongoDB, Express, React, Node.js) 
 * Beta testing automated apply feature built with Node.js Puppeteer scripts with ChatGPT API integration
 
-
-
 <img width="500" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/8b98dc86-9a67-4b29-a5fd-04e3cb45befd">
 
 ### Xeopets.com Virtual Pet Simulator Game: React/Node.js - LIVE
@@ -42,6 +40,15 @@
 * Completed model was able to successfully drive around track with a 95% success rate (on 100 trials)
 
 <img width="500" alt="image" src="https://res.cloudinary.com/marcomontalbano/image/upload/v1659036267/video_to_markdown/images/youtube---uvfwzin-FI-c05b58ac6eb4c4700831b2b3070cd403.jpg">
+
+
+### Email Finder AI: JavaScript / Node.js / Puppeteer / MongoDB - LAUNCHING SOON
+Note: Repository was turned private for commercial release (interested parties please request access)
+* Chrome Extension that allows 2-Click email collection from LinkedIn Profile or Search
+* Ability to pull and guess emails with 90%+ certainty from LinkedIn Pages
+* Uses Puppeteer script to collect and verify email formats and MongoDB Database to cache results
+* Adding Gmail authentication and Gmail API integration to allow seamless email sending
+<img width="500" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/8bbf3404-6c32-4d4d-8aaa-f05524ff0f91">
 
 
 ### More Projects:
