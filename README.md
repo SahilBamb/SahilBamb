@@ -18,7 +18,7 @@
 <img width="500" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/8b98dc86-9a67-4b29-a5fd-04e3cb45befd">
 
 ### Xeopets.com Virtual Pet Simulator Game: React/Node.js - LIVE
-[Live Site](Xeopets.com) | [Repository](Xeopets.com)
+[Live Site](https://www.Xeopets.com) | [Repository](Xeopets.com)
 * Virtual pet simulator game, inspired by Neopets.com, that allows users to adopt pets, buy items, earn points and more
 * Built using JavaScript, HTML, CSS, React.js, Redux, Node.js, MongoDB, Express, Mongoose, npm and Vite
 * Website currently in live alpha and under active development with 40 user testing Discord server for bugs & feedback
