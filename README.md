@@ -48,7 +48,9 @@ Note: Repository was turned private for commercial release (interested parties p
 * Ability to pull and guess emails with 90%+ certainty from LinkedIn Pages
 * Uses Puppeteer script to collect and verify email formats and MongoDB Database to cache results
 * Adding Gmail authentication and Gmail API integration to allow seamless email sending
-<img width="500" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/8bbf3404-6c32-4d4d-8aaa-f05524ff0f91">
+
+<img width="600" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/c7443dbf-ff38-4296-8100-93ea06952d96">
+<img width="300" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/9bda6ede-e5d6-4ec6-8ea4-4d89e0c21089">
 
 
 ### More Projects:
