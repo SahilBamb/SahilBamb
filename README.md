@@ -50,7 +50,6 @@ Note: Repository was turned private for commercial release (interested parties p
 * Adding Gmail authentication and Gmail API integration to allow seamless email sending
 
 <img width="600" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/c7443dbf-ff38-4296-8100-93ea06952d96">
-<img width="300" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/9bda6ede-e5d6-4ec6-8ea4-4d89e0c21089">
 
 
 ### More Projects:
