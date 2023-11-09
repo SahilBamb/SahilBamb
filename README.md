@@ -69,7 +69,8 @@ Note: Repository was turned private for commercial release (interested parties p
 ## Data Structures and Algorithm Problems Solved
 
 #### LeetCode Problems
-![Solved](https://github.com/SahilBamb/SahilBamb/assets/42818731/ad42c5ae-7839-477c-90ac-0ead63c15ea0)
+<img width="383" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/81d14210-b2bf-4abf-973d-64ee9f1da1c5">
+
 
 #### AlgoExpert Problems
 ![Screen Shot 2023-05-19 at 3 29 25 PM](https://github.com/SahilBamb/SahilBamb/assets/42818731/f3d35a16-d9bd-42ec-bbf7-e255f760168b)
