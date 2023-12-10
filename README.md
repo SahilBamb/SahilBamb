@@ -9,6 +9,16 @@
 
 ## Project Highlights
 
+### InstaLectures: PostgreSQL, React.js Express Node.js - LIVE
+[Live Site](https://instalectures.com/)
+* Combines addictive social media videos with educational lectures
+* Full Stack video application that mimicks Instgram funtionality like UI, infinite scroll, autoplay, video/audio sync, etc.
+* Responsive user interface for mobile and desktop interfaces (seen different views below)
+
+<img height="420" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/119eb2ec-7d59-42fc-a2be-6b6b857727d2">
+<img width="650" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/f48b5248-d13a-45ba-851b-781734900f7c">
+
+
 ### Tech Prep Jobs List Website: Linux Apache MySQL PHP - LIVE
 [Live Site](https://web.njit.edu/~sb59/)
 * 1800+ registered email list, 400+ monthly active users, 100 user Discord server with plans to expand to other universities 
