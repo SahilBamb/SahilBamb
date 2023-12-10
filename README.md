@@ -16,7 +16,7 @@
 * Responsive user interface for mobile and desktop interfaces (seen different views below)
 
 <img height="420" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/119eb2ec-7d59-42fc-a2be-6b6b857727d2">
-<img width="650" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/f48b5248-d13a-45ba-851b-781734900f7c">
+<img width="620" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/f48b5248-d13a-45ba-851b-781734900f7c">
 
 
 ### Tech Prep Jobs List Website: Linux Apache MySQL PHP - LIVE
