@@ -2,12 +2,30 @@
 
 ## I'm a Student, Business Owner and Focused on Focusing!
 
-- 🌱 I’m currently learning about Full Stack Development, AWS and mastering DSA
+- 🌱 I’m currently learning about building SaaS applications
 - 👯 I’m looking to take on focus challenges
-- 🥅 2023 Goals: Master Data Structures and Algorithms
+- 🥅 2024 Goals: Master AWS
 - ⚡ Fun fact: I love to write and lift weights (not at the same time)
 
 ## Project Highlights
+
+### LogoOptimizer AI: 
+(Beta Site Not Live)
+* Allows brands to automatically get branded logos created, approved and uploaded across social media accounts
+* Useful for branded holidays like LGBTQ pride month, black history month, St. Patricks Day, Memorial Day and July 4th
+* Integration with Twitter API and Facebook/Instagram API (with pupeteer automations for TikTok and Snapchat)
+
+![image](https://github.com/SahilBamb/SahilBamb/assets/42818731/e3856eaa-6773-4cae-a9df-68e210ee09c7)
+
+
+### InstantColoringBook.com: AI Application (HuggingFace), React.js, AWS Lambda, PostgreSQL - LIVE
+[Live Site](https://instantcoloringbook.com/)
+* Allows teachers, parents or children to instantly create and download coloring books about anything!
+* Stripe API and webhook integration allows subscription signup 
+* Responsive user interface for mobile and desktop interfaces 
+
+<img height="420" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/fa890c4e-096c-4d25-8709-c7d385da9bbb%22">
+
 
 ### InstaLectures: PostgreSQL, React.js Express Node.js - LIVE
 [Live Site](https://instalectures.com/)
