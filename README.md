@@ -1,126 +1,130 @@
-# Hi there, I'm Sahil 👋 
+<div align="center">
 
-## I'm a Student, Business Owner and Focused on Focusing!
+# Sahil Bambulkar
 
-- 🌱 I’m currently learning about building SaaS applications
-- 👯 I’m looking to take on focus challenges
-- 🥅 2024 Goals: Master AWS
-- ⚡ Fun fact: I love to write and lift weights (not at the same time)
+**Software Development Engineer** · Amazon  
 
-## Project Highlights
+[![Education](https://img.shields.io/badge/B.S._Computer_Science-4.0_GPA-2563EB?style=flat-square)](#)
+[![Role](https://img.shields.io/badge/Focus-Backend_%26_Full--stack-111827?style=flat-square)](#)
 
-### LogoOptimizer AI: 
-(Beta Site Not Live)
-* Allows brands to automatically get branded logos created, approved and uploaded across social media accounts
-* Useful for branded holidays like LGBTQ pride month, black history month, St. Patricks Day, Memorial Day and July 4th
-* Integration with Twitter API and Facebook/Instagram API (with pupeteer automations for TikTok and Snapchat)
+*Personal side projects and experiments below — views are my own, not my employer’s.*
 
-![image](https://github.com/SahilBamb/SahilBamb/assets/42818731/e3856eaa-6773-4cae-a9df-68e210ee09c7)
+[LinkedIn](https://www.linkedin.com/in/sahil-bambulkar/) · [Email](mailto:sahilkbambulkar@gmail.com)
 
+</div>
 
-### InstantColoringBook.com: AI Application (HuggingFace), React.js, AWS Lambda, PostgreSQL - LIVE
-[Live Site](https://instantcoloringbook.com/)
-* Allows teachers, parents or children to instantly create and download coloring books about anything!
-* Stripe API and webhook integration allows subscription signup 
-* Responsive user interface for mobile and desktop interfaces 
+---
 
-<img height="420" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/fa890c4e-096c-4d25-8709-c7d385da9bbb%22">
+## Table of contents
 
+- [At a glance](#at-a-glance)
+- [Recent work](#recent-work)
+- [More repositories](#more-repositories)
+- [Practice and problem solving](#practice-and-problem-solving)
+- [Earlier work & portfolio](#earlier-work--portfolio)
+- [Connect](#connect)
 
-### InstaLectures: PostgreSQL, React.js Express Node.js - LIVE
-[Live Site](https://instalectures.com/)
-* Combines addictive social media videos with educational lectures
-* Full Stack video application that mimicks Instgram funtionality like UI, infinite scroll, autoplay, video/audio sync, etc.
-* Responsive user interface for mobile and desktop interfaces (seen different views below)
+---
 
-<img height="420" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/119eb2ec-7d59-42fc-a2be-6b6b857727d2">
-<img width="620" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/f48b5248-d13a-45ba-851b-781734900f7c">
+## At a glance
 
+I’m a **Software Development Engineer** at **Amazon** and I earned a **B.S. in Computer Science** with a **4.0 GPA**. I spend nights and weekends on **new full-stack and AI products**—most of the work below is from my current dev machine and deploy pipeline; I’ve linked **live URLs** wherever they show up in source (metadata, `layout`, embed snippets, `og:url`, or production API hosts).
 
-### Tech Prep Jobs List Website: Linux Apache MySQL PHP - LIVE
-[Live Site](https://web.njit.edu/~sb59/)
-* 1800+ registered email list, 400+ monthly active users, 100 user Discord server with plans to expand to other universities 
-* Runs on LAMP stack (Linux, Apache, MySQL and PHP) & migrating to MERN stack (MongoDB, Express, React, Node.js) 
-* Beta testing automated apply feature built with Node.js Puppeteer scripts with ChatGPT API integration
+---
 
-<img width="500" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/8b98dc86-9a67-4b29-a5fd-04e3cb45befd">
+## Recent work
 
-### Xeopets.com Virtual Pet Simulator Game: React/Node.js - LIVE
-[Live Site](https://www.Xeopets.com) | [Repository](Xeopets.com)
-* Virtual pet simulator game, inspired by Neopets.com, that allows users to adopt pets, buy items, earn points and more
-* Built using JavaScript, HTML, CSS, React.js, Redux, Node.js, MongoDB, Express, Mongoose, npm and Vite
-* Website currently in live alpha and under active development with 40 user testing Discord server for bugs & feedback
+These are the **active builds** I’m focused on right now. **Live** links below are pulled from each project’s source (canonical URLs, production API hosts, or marketing embeds). If a deploy isn’t listed, add your Vercel or custom domain to the app’s `layout` / env and paste the link here.
 
-<img width="500" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/2d3fc8c9-7282-4eaf-8665-627a44f9be5e">
+| Project | What it is | Live |
+|--------|------------|------|
+| **VibeIt** | Chat-native “autonomous software factory”: plan, build, test, and ship apps from conversation (Turbo monorepo, Next.js, product app + marketing site). | [**App — app.vibeit.dev**](https://app.vibeit.dev) |
+| **Get Customers** | Next.js waitlist, onboarding, and social-proof case-study style acquisition landing. | [**getcustomers.now**](https://getcustomers.now) |
+| **Hood Cleaning Leads** | Vite + Tailwind lead-gen site for commercial hood / exhaust cleaning. | [**hoodcleaningleads.com**](https://hoodcleaningleads.com) |
+| **Home Care AI Chatbot** | Embeddable **Preact** home-care chat + **FastAPI** backend (lead capture, FAQs, admin). Widget/API hosted on **Railway**. | [**API / widget host**](https://aichatbot-production-fabd.up.railway.app) |
+| **SLPAI** | Speech-language-pathology **documentation** assistant: Gemini, DOCX, HIPAA-style redaction hooks, blog. | [**slpai.net**](https://slpai.net) |
+| **Form to Google Sheet** | Drop-in `<script>` + **Google Apps Script** to POST form fields into a **Sheet** (no server). | [**npm package**](https://www.npmjs.com/package/form-to-google-sheet) · [CDN (unpkg)](https://unpkg.com/form-to-google-sheet) |
 
-### RA Package Tracker Application: Python / Google Cloud API 
-[Demo](https://www.youtube.com/watch?v=OOF_whNfEbs) | [Repository](https://github.com/SahilBamb/RAPackageTracker)
-* Currently serves 500+ students by automating package processing for NJIT’s Dormitory and Residence Life
-* Utilizes Google Sheets API and Python to collect student information, record unique package numbers and send alert emails
-* Reduced time to document each package by 80% and drastically reduced package sorting errors and missing packages
+**Also in progress** (iOS, local tools, or add your public URL when ready): **WeddingAI** (Next.js + Astria + Stripe), **Cozify** (SwiftUI + vision / image edit + StoreKit), **DocumentEditor** (Tiptap + AI), **LearnAnything** & **SideScroller** (adaptive learning + optional RPG layer), **Atlas Rooms** (memory-palace learning), **DM for AI** (SRD + LLM tabletop), **Speakify** (Piper TTS + AI books), **EmailApp** / **email-crm** (approval-gated outreach), **Indian Calorie Cam**, **TakeAction** (Chrome extension), **Six Pack or Refund** (Expo), **Commit Atlas** (commit-by-commit repo learning), **Forge** (agentic workspace), **AutoResearch** (Meta Ads Library tooling), **Multiplayer Pokémon** (Colyseus + React + Pixi), **StoryRPG** (text-first engine), **PokeProject** (data + difficulty scripts), **ProjectView** & **Reach Messenger** (desktop), **Anchor** (iOS), **PersonalAI** sandboxes, and **small game / extension prototypes** (Puppeteer control, YouTube summarizer, card / isometric / gameroom experiments).
 
-<img width="500" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/ade67c55-cc00-4411-9567-a50729b6cd8e">
+*Test and scratch work under `Trash/` in my workspace stays off this page.*
 
-### Machine Learning Self Driving Car Simulation: Python TensorFlow / Keras 
-[Demo](https://www.youtube.com/watch?v=_4MO0vorz0g) | [Repository](https://github.com/SahilBamb/SelfDrivingSimulation) | [Personal Research Paper](https://github.com/SahilBamb/SelfDrivingSimulation/blob/master/SelfDrivingCarProject.pdf)
-* Implemented Bojarski et al.'s paper and trained machine learning model to allow virtual car to drive itself around track
-* Coded in Python using PIL, OpenCV, Pandas and NumPy for data preprocessing as well as Keras to build and train model
-* Completed model was able to successfully drive around track with a 95% success rate (on 100 trials)
+---
 
-<img width="500" alt="image" src="https://res.cloudinary.com/marcomontalbano/image/upload/v1659036267/video_to_markdown/images/youtube---uvfwzin-FI-c05b58ac6eb4c4700831b2b3070cd403.jpg">
+## More repositories
 
+- [Full-stack Shopify-style ecommerce](https://github.com/sahilbamb/Full-Stack-Ecommerce-App)
+- [Automated YouTube download + video editor](https://github.com/sahilbamb/AutomatedVideoEditor)
+- [Dynamic tax calculator (Flask, Beautiful Soup)](https://github.com/sahilbamb/DynamicTaxRateApplication)
+- [Pokémon door-decor generator](https://github.com/sahilbamb/PokeDoorDecs)
+- [Focused² — low-level productivity game (no engine)](https://github.com/sahilbamb/FocusedSquared)
+- [TCP/UDP chatroom](https://github.com/sahilbamb/TCPChatroom)
+- [Multi-digit CNN recognizer](https://github.com/sahilbamb/Multi-Digit-Recognizer-Convolutional-Neural-Network)
+- [Word → flashcards](https://github.com/sahilbamb/WordtoFlashCards)
+- [Discord Auto Chatter](https://github.com/sahilbamb/DiscordAutoChatter)
+- [Charity Donation Notifier](https://github.com/sahilbamb/CharityDonationNotifier)
+- [Crypto SMS](https://github.com/sahilbamb/CryptoSMS)
 
-### Email Finder AI: JavaScript / Node.js / Puppeteer / MongoDB - LAUNCHING SOON
-Note: Repository was turned private for commercial release (interested parties please request access)
-* Chrome Extension that allows 2-Click email collection from LinkedIn Profile or Search
-* Ability to pull and guess emails with 90%+ certainty from LinkedIn Pages
-* Uses Puppeteer script to collect and verify email formats and MongoDB Database to cache results
-* Adding Gmail authentication and Gmail API integration to allow seamless email sending
+---
 
-<img width="600" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/c7443dbf-ff38-4296-8100-93ea06952d96">
+## Practice and problem solving
 
+I keep up with **data structures and algorithms** on **LeetCode** and **AlgoExpert**.
 
-### More Projects:
+![AlgoExpert progress](https://github.com/SahilBamb/SahilBamb/assets/42818731/f3d35a16-d9bd-42ec-bbf7-e255f760168b)
 
-* [Shopi-Free E-commerce Application (Shopify Clone)](https://github.com/SahilBamb/Full-Stack-Ecommerce-App)
-* [Automated Youtube Downloader + Video Editor](https://github.com/SahilBamb/AutomatedVideoEditor)
-* [Dynamic Tax Calculator Application (Python Flask / Beautiful Soup)](https://github.com/SahilBamb/DynamicTaxRateApplication)
-* [Pokemon Door Decoration Generator](https://github.com/SahilBamb/PokeDoorDecs)
-* [Low Level (No Game Engine) Focused Squared Productivity Game](https://github.com/SahilBamb/FocusedSquared)
-* [TCP/UDP Chatroom](https://github.com/SahilBamb/TCPChatroom)
-* [Machine Learning Multi-Digit Recognizer Convolutional Neural Network](https://github.com/SahilBamb/Multi-Digit-Recognizer-Convolutional-Neural-Network)
-* [Microsoft Word to Flash Cards (Turn a word document into flashcards)](https://github.com/SahilBamb/WordtoFlashCards)
-* [Discord Auto Chatter](https://github.com/SahilBamb/DiscordAutoChatter)
-* [Charity Donation Notifier](https://github.com/SahilBamb/CharityDonationNotifier)
-* [Crypto SMS](https://github.com/SahilBamb/CryptoSMS)
+*If this image 404s, re-upload it in your profile repo under `assets/` and update the `src`.*
 
-## Data Structures and Algorithm Problems Solved
+---
 
-#### LeetCode Problems
-<img width="800" alt="image" src="https://github.com/SahilBamb/SahilBamb/assets/42818731/08058398-d44b-454b-991a-355051792c44">
+## Earlier work & portfolio
 
-#### AlgoExpert Problems
-![Screen Shot 2023-05-19 at 3 29 25 PM](https://github.com/SahilBamb/SahilBamb/assets/42818731/f3d35a16-d9bd-42ec-bbf7-e255f760168b)
+*Older shipped products, university-era tools, and demos — kept for context.*
 
+### Featured (archive)
 
-## Spent Summer Interning At
+| | |
+|:---|:---|
+| [**InstantColoringBook.com**](https://instantcoloringbook.com/) | AI-generated coloring books (React, AWS Lambda, PostgreSQL, Stripe subscriptions). |
+| [**InstaLectures**](https://instalectures.com/) | Social-style video learning: infinite scroll, autoplay, and synced lecture UX (React, Node, PostgreSQL). |
+| [**Xeopets**](https://www.xeopets.com) | Neopets-inspired virtual pet sim — live alpha, React, Redux, Node, MongoDB. |
 
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/amazon_tile_logo_icon_170594.png" height="100"/>
+### Public products and shipped work (archive)
 
-### Connect with me:
+#### Live sites & services
 
-[![website](https://findicons.com/files/icons/1982/social_me/60/linkedin.png)](https://www.linkedin.com/in/sahil-bambulkar/)
-[![website](https://findicons.com/files/icons/1982/social_me/60/netvibes.png)](mailto:sahilkbambulkar@gmail.com)
+- **[InstantColoringBook.com](https://instantcoloringbook.com/)** — On-demand AI coloring books for teachers, parents, and kids. Stripe for subscriptions; responsive web UI.
+- **[InstaLectures](https://instalectures.com/)** — “Instagram meets lectures”: short-form educational video feed with familiar social UX.
+- **[Tech Prep (NJIT jobs board)](https://web.njit.edu/~sb59/)** — LAMP community with a large opt-in list and active Discord; experimenting with Node/Puppeteer + ChatGPT for apply automation.
+- **[Xeopets.com](https://www.xeopets.com)** — Virtual pets, items, and progression in active development (React, Node, MongoDB, Vite).
 
+#### Tools, demos, and research (GitHub & video)
 
-### Languages and Tools:
+- **[RA Package Tracker](https://github.com/sahilbamb/RAPackageTracker)** — [Demo](https://www.youtube.com/watch?v=OOF_whNfEbs) — Google Sheets + Python pipeline for residence-hall package logging and email alerts.
+- **[Self-driving sim (ML)](https://github.com/sahilbamb/SelfDrivingSimulation)** — [Demo](https://www.youtube.com/watch?v=_4MO0vorz0g) · [Write-up (PDF)](https://github.com/sahilbamb/SelfDrivingSimulation/blob/master/SelfDrivingCarProject.pdf) — Bojarski-style CNN in Keras; high success rate on the test track.
 
-<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+#### Private or sunset
+
+- **Email Finder AI** — Chrome extension for contact discovery from LinkedIn (repo private; request access if we’re working together on something relevant).
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahil--bambulkar-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sahil-bambulkar/)
+[![Email](https://img.shields.io/badge/Email-sahilkbambulkar%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sahilkbambulkar@gmail.com)
+
+**Tech I reach for often**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Node](https://img.shields.io/badge/Node-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
+![Swift](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white&style=flat-square)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+
+</div>
